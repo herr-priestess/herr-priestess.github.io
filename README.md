@@ -1,4 +1,4 @@
-# Welcome to Cynthia's Blog 💐
+# Welcome to [Cynthia's Blog](https://herr-priestess.github.io) 💐
 
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
@@ -27,7 +27,7 @@ Writing without emojis is like writing without vowels. I use both generously, an
 
 This blog is based on the [**Chirpy**][chirpy] Jekyll theme. I've had to tweak a few things, but otherwise, I think this is the go-to minimal template for someone who wants to get into writing immediately.
 
-Also, thank you to [**Ahmed Tremo**]() for pointing me to it.
+Also, thank you to [**Ahmed Tremo**](https://github.com/tremo1) for pointing me to it.
 
 ## License
 
