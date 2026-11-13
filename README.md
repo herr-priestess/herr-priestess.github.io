@@ -1,39 +1,38 @@
-# Chirpy Starter
+# Welcome to Cynthia's Blog 💐
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
 
-## Why This Starter Exists
+This blog is intended as a progress blog of sorts. A learning log, if you please.
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+## Why Write?
 
-To unlock all features, the following files must be present in your Jekyll site:
+* Because reading has not gone extinct. (We're getting there, maybe.) 
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+* There is a saying that when one teaches, two learn.
+  
+  While I might not necessarily teach, I can share what I'm learning and hope that by so doing, both the reader and I can gain a deeper insight into the topic.
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+* Because I can. 😊
 
-## Usage
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## Disclaimer
+I will bore you, occasionally. But not always.
 
-## Contributing
+Please consider it your prerogative to question or challenge anything written on this blog.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+Writing without emojis is like writing without vowels. I use both generously, and I hope you are not allergic to either. 🌷
+
+## Credit
+
+This blog is based on the [**Chirpy**][chirpy] Jekyll theme. I've had to tweak a few things, but otherwise, I think this is the go-to minimal template for someone who wants to get into writing immediately.
+
+Also, thank you to [**Ahmed Tremo**]() for pointing me to it.
 
 ## License
 
-This work is published under [MIT][mit] License.
+This work is published under the [MIT][mit] License.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
